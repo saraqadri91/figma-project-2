@@ -1,0 +1,112 @@
+* {
+    /* border: 2px solid red; */
+
+}
+
+body p {
+    color: #DADADA
+}
+
+body {
+    background-color: #F9F9F9;
+}
+
+
+.custm {
+    background-color: #75bf7a;
+    border: none;
+    color: white;
+    width: 132px;
+    height: 50px;
+    border-radius: 5.95px;
+}
+
+.parent {
+    background-color: #75bf7a;
+    width: 1180px;
+    min-height: 166px;
+    border-radius: 10px;
+}
+
+.mid {
+    gap: 20px;
+}
+
+.w {
+    width: 400px;
+
+
+}
+
+.ww {
+    color: #DADADA;
+}
+
+.cl {
+    color: white;
+}
+
+.btnn {
+    height: 60px;
+}
+
+.fs {
+    font-size: smaller;
+}
+
+.ter {
+    color: #75bf7a;
+}
+
+.tere>p {
+    color: #DADADA;
+}
+
+.circle-container {
+    position: relative;
+    width: 50px;
+    /* Adjust width and height to match the image size */
+    height: 50px;
+}
+
+
+
+.number {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 27px;
+    /* Adjust font size as needed */
+    color: #75bf7a;
+    /* Choose your desired text color */
+    font-weight: bold;
+}
+
+.para {
+    color: #DADADA;
+}
+
+.mob {
+    position: absolute;
+
+    z-index: 300;
+}
+
+.bgg {
+    background-color: white;
+    max-width: 900px;
+    border-radius: 10px;
+}
+.seconds{margin-left: 400px; gap :162px;}
+.conts {
+    width: 600px; 
+}
+.one{font-size: 77px;}
+.bggg {
+    background-color: white;
+    max-width: 400px;
+    border-radius: 10px;
+}
+.bbgg{   background-color: white;}
+/* .coll{margin-left: 180px;} */
